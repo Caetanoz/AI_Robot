@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\robocode\\libs\\robocode.jar",
+        "C:/Users/super/Downloads/h2o-3.46.0.2/h2o.jar"
+    ]
+}
